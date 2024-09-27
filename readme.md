@@ -1,0 +1,1 @@
+In this project I'm gonna put in practice the knowledge I adquired in HTML, I'll gonna update this at the end to write what I've done and the concepts I put in practice
